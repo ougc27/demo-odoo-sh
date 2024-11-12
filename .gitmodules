@@ -1,0 +1,4 @@
+[submodule "Morwi-Odoo/arkik-connector"]
+	path = Morwi-Odoo/arkik-connector
+	url = git@github.com:Morwi-Odoo/arkik-connector.git
+	branch = main
